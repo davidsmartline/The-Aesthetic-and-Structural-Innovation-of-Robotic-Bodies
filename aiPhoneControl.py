@@ -2,7 +2,7 @@ from flask import Flask, request
 import serial
 
 # 修改为你的Arduino串口
-ser = serial.Serial('COM3', 115200, timeout=1)
+ser = serial.Serial('COMX', 115200, timeout=1)
 
 app = Flask(__name__)
 
@@ -31,6 +31,6 @@ def status():
     return "Status Requested"
 
 if __name__ == '__main__':
-    app.run(host='xxx.xxx.xxx.xxx', port=5000)
+    app.run(host='xxx.xxx.xxx.xxx', port=4900)
 
     
