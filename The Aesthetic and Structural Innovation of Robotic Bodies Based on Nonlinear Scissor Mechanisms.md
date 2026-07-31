@@ -1,5 +1,12 @@
+---
+layout: page
+title: "The Aesthetic and Structural Innovation of Robotics Bodies"
+date: 2026-07-06
+permalink: /The Aesthetic and Structural Innovation of Robotics Bodies.md/
+---
 
 The Aesthetic and Structural Innovation of Robotics Bodies 
+
 David Jian Tang, Smart Line Robotic Inc., Raleigh, NC27604, USA, and Yiping Tang,School of Computer Science,Hunan Normal University, Changsha, Hunan Province, China.
 
 Abstract
